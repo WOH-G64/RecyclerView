@@ -1,0 +1,4 @@
+<resources>
+    <string name="RecyclerView">RecyclerView</string>
+    <string name="surname">Surname</string>
+</resources>
